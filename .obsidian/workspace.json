@@ -11,10 +11,13 @@
             "id": "dec05aab298ac080",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -70,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,13 +163,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled 1"
             }
+          },
+          {
+            "id": "b97cd99232befe1d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,16 +195,19 @@
   },
   "active": "dec05aab298ac080",
   "lastOpenFiles": [
+    "sieutrinho/thực hành nâng cao về kỹ thuật Lâu đài Ký ức (Memory Palace).md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "sieutrinho/CHIẾN LƯỢC GHI NHỚ NÂNG CAO CHO SINH VIÊN Y KHOA VÀ MÔI TRƯỜNG LÂM SÀNG.md",
     "phatphap/pháp tu Tứ Niệm Xứ như một lộ trình rèn luyện tâm thức để đạt tới sự giải thoát và an lạc của Niết Bàn.md",
     "sieutrinho/Bí mật Cung điện Ghi nhớ 5 Bài học Đột phá để Ghi nhớ Mọi thứ (Kể cả Văn bản Cổ xưa).md",
     "sieutrinho/Kỹ thuật Cung điện Ký ức và Ghi nhớ Văn bản Dài.md",
     "sieutrinho/Hướng dẫn Sử dụng Lâu đài Ký ức để Ghi nhớ Thuốc Ức chế Tái hấp thu Serotonin Có chọn lọc (SSRI).md",
     "phatphap/Kinh Bát Chu Tam Muội.md",
-    "sieutrinho/thực hành nâng cao về kỹ thuật Lâu đài Ký ức (Memory Palace).md",
     "sieutrinho/quy tắc số 3 đơn giản hóa cung điện ký ức.md",
     "sieutrinho/Chiến Lược Xây Dựng Và Quản Lý Hệ Thống Cung Điện Ký Ức.md",
-    "sieutrinho/CHIẾN LƯỢC GHI NHỚ NÂNG CAO CHO SINH VIÊN Y KHOA VÀ MÔI TRƯỜNG LÂM SÀNG.md",
-    "Untitled.canvas",
     "AI/Bộ não thứ hai Second Brain kết hợp cùng công nghệ Agentic AI.md",
     "AI/sự thay đổi tư duy sâu sắc trước sự trỗi dậy mạnh mẽ của trí tuệ nhân tạo.md",
     "THƯ VIỆN HOA SEN.md",
@@ -201,7 +216,6 @@
     "phatphap",
     "sieutrinho",
     "Siêu Trí Nhớ.canvas",
-    "Untitled 1.canvas",
     "Welcome.md",
     "Clippings"
   ]
