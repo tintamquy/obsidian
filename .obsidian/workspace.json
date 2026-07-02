@@ -11,14 +11,10 @@
             "id": "dec05aab298ac080",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sieutrinho/Hướng dẫn Sử dụng Lâu đài Ký ức để Ghi nhớ Thuốc Ức chế Tái hấp thu Serotonin Có chọn lọc (SSRI).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hướng dẫn Sử dụng Lâu đài Ký ức để Ghi nhớ Thuốc Ức chế Tái hấp thu Serotonin Có chọn lọc (SSRI)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,15 +176,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "dec05aab298ac080",
   "lastOpenFiles": [
+    "sieutrinho/Bí mật Cung điện Ghi nhớ 5 Bài học Đột phá để Ghi nhớ Mọi thứ (Kể cả Văn bản Cổ xưa).md",
+    "sieutrinho/Kỹ thuật Cung điện Ký ức và Ghi nhớ Văn bản Dài.md",
+    "sieutrinho/Hướng dẫn Sử dụng Lâu đài Ký ức để Ghi nhớ Thuốc Ức chế Tái hấp thu Serotonin Có chọn lọc (SSRI).md",
     "phatphap/Kinh Bát Chu Tam Muội.md",
     "sieutrinho/thực hành nâng cao về kỹ thuật Lâu đài Ký ức (Memory Palace).md",
     "sieutrinho/quy tắc số 3 đơn giản hóa cung điện ký ức.md",
-    "sieutrinho/Hướng dẫn Sử dụng Lâu đài Ký ức để Ghi nhớ Thuốc Ức chế Tái hấp thu Serotonin Có chọn lọc (SSRI).md",
     "sieutrinho/Chiến Lược Xây Dựng Và Quản Lý Hệ Thống Cung Điện Ký Ức.md",
     "sieutrinho/CHIẾN LƯỢC GHI NHỚ NÂNG CAO CHO SINH VIÊN Y KHOA VÀ MÔI TRƯỜNG LÂM SÀNG.md",
     "Untitled.canvas",
