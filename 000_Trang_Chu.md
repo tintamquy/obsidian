@@ -2,6 +2,9 @@
 
 Chào mừng bạn đến với **Bộ não thứ hai (Second Brain)** của mình!
 
+## 📖 Bắt đầu từ đâu?
+- [[Hướng Dẫn Zettelkasten Thực Chiến|Đọc Hướng Dẫn Cách Học Zettelkasten Tại Đây]]
+
 ## 🗺️ Bản Đồ Tri Thức (MOCs)
 - ☸️ [[MOC Phật Pháp]]
 - 🏛️ [[MOC Siêu Trí Nhớ]]

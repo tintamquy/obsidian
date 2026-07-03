@@ -1,0 +1,2 @@
+
+Đừng đi sưu tầm kiến thức nữa, thật ra nếu như ta không đưa kiến thức link vào bộ nhớ thì thật sự ta chẳng học được cái gì cả. [[02_Areas/sieutrinho/quy tắc số 3 đơn giản hóa cung điện ký ức|quy tắc số 3 đơn giản hóa cung điện ký ức]]
