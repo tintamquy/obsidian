@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Trang_Chu.md",
+                "file": "02. 🧠 Zettelkasten/Hệ Thống PAO (Person-Action-Object).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000_Trang_Chu"
+              "title": "Hệ Thống PAO (Person-Action-Object)"
             }
           },
           {
-            "id": "606ae3764989f96c",
+            "id": "020881b442d4668c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "KAVECOGS Từ Tính Hóa Hình Ảnh Ghi Nhớ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "KAVECOGS Từ Tính Hóa Hình Ảnh Ghi Nhớ"
             }
           }
         ],
@@ -209,12 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "606ae3764989f96c",
+  "active": "020881b442d4668c",
   "lastOpenFiles": [
-    "000_Trang_Chu.md",
-    "Untitled.md",
-    "99. ⚙️ Templates/Template_Ghi_Chu_Nguyen_Tu_Zettelkasten.md",
+    "02. 🧠 Zettelkasten/Hệ Thống PAO (Person-Action-Object).md",
+    "KAVECOGS Từ Tính Hóa Hình Ảnh Ghi Nhớ.md",
+    "02. 🧠 Zettelkasten/Bát Chính Đạo.md",
+    "Vô ngã.md",
     "00. 📥 Inbox/Ảo tưởng về sự học tập.md",
+    "000_Trang_Chu.md",
+    "Untitled 1.md",
+    "99. ⚙️ Templates/Template_Ghi_Chu_Nguyen_Tu_Zettelkasten.md",
     "05_Templates/01_Ghi_Chu_Tieu_Chuan.md",
     "05_Templates/02_Nhat_Ky_Hang_Ngay.md",
     "Untitled 2.base",
@@ -230,7 +234,6 @@
     "02. 🧠 Zettelkasten/Bộ não thứ hai Second Brain kết hợp cùng công nghệ Agentic AI.md",
     "02. 🧠 Zettelkasten/CHIẾN LƯỢC GHI NHỚ NÂNG CAO CHO SINH VIÊN Y KHOA VÀ MÔI TRƯỜNG LÂM SÀNG.md",
     "02. 🧠 Zettelkasten/Bí mật Cung điện Ghi nhớ 5 Bài học Đột phá để Ghi nhớ Mọi thứ (Kể cả Văn bản Cổ xưa).md",
-    "02. 🧠 Zettelkasten/Bát Chính Đạo.md",
     "99. ⚙️ Templates/Template_MOC.md",
     "05. 📦 Archive (Ghi Chú Cũ)/thực hành nâng cao về kỹ thuật Lâu đài Ký ức (Memory Palace).md",
     "05. 📦 Archive (Ghi Chú Cũ)/sự thay đổi tư duy sâu sắc trước sự trỗi dậy mạnh mẽ của trí tuệ nhân tạo.md",
@@ -238,9 +241,6 @@
     "05. 📦 Archive (Ghi Chú Cũ)/Chiến Lược Xây Dựng Và Quản Lý Hệ Thống Cung Điện Ký Ức.md",
     "05. 📦 Archive (Ghi Chú Cũ)/pháp tu Tứ Niệm Xứ như một lộ trình rèn luyện tâm thức để đạt tới sự giải thoát và an lạc của Niết Bàn.md",
     "05. 📦 Archive (Ghi Chú Cũ)/Kỹ thuật Cung điện Ký ức và Ghi nhớ Văn bản Dài.md",
-    "05. 📦 Archive (Ghi Chú Cũ)/Kinh Bát Chu Tam Muội.md",
-    "05. 📦 Archive (Ghi Chú Cũ)/Hướng dẫn Sử dụng Lâu đài Ký ức để Ghi nhớ Thuốc Ức chế Tái hấp thu Serotonin Có chọn lọc (SSRI).md",
-    "05. 📦 Archive (Ghi Chú Cũ)/Bộ não thứ hai Second Brain kết hợp cùng công nghệ Agentic AI.md",
     "05. 📦 Archive (Ghi Chú Cũ)",
     "reset_vault.py",
     "clean_mocs.py",
