@@ -11,13 +11,10 @@
             "id": "dec05aab298ac080",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -195,8 +192,8 @@
   },
   "active": "dec05aab298ac080",
   "lastOpenFiles": [
-    "sieutrinho/thực hành nâng cao về kỹ thuật Lâu đài Ký ức (Memory Palace).md",
     "Untitled.base",
+    "sieutrinho/thực hành nâng cao về kỹ thuật Lâu đài Ký ức (Memory Palace).md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
