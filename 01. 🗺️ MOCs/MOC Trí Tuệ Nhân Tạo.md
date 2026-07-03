@@ -1,17 +1,15 @@
 # 🤖 MOC Trí Tuệ Nhân Tạo
 
 ## Giới thiệu
-Nơi cập nhật kiến thức, tin tức và ứng dụng công nghệ AI mỗi ngày.
+Cơ sở dữ liệu về cách vận hành, xu hướng và cách ứng dụng công nghệ AI vào học tập.
 
-## 🛠️ Công cụ (AI Tools)
-- 
+## 🧠 Kiến thức nền tảng
+- [[Mô Hình Ngôn Ngữ Lớn (LLM) và Transformers]]
+- [[Kỹ Thuật Prompt Engineering Cơ Bản]]
 
-## 📝 Lệnh mồi (AI Prompts)
-- 
+## 🚀 Tư Duy & Tầm Nhìn
+- [[Bộ não thứ hai Second Brain kết hợp cùng công nghệ Agentic AI]]
+- [[sự thay đổi tư duy sâu sắc trước sự trỗi dậy mạnh mẽ của trí tuệ nhân tạo|Tư duy trước sự trỗi dậy của AI]]
 
-## 🧠 Khái niệm cốt lõi (Machine Learning, LLM, v.v.)
-- 
-
-## 🔗 Liên kết chéo
-- Dùng AI dịch tiếng Trung/Hán Cổ: [[MOC Tiếng Trung]]
-- Dùng AI phân tích Kinh điển: [[MOC Phật Pháp]]
+## 🔗 Liên kết hệ thống
+- Hỗ trợ học Hán Cổ: [[MOC Tiếng Trung]]

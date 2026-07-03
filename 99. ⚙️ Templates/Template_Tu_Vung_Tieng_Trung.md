@@ -18,7 +18,7 @@ aliases: []
 1. 
 
 ## 🧠 Liên kết Loci (Ghi nhớ)
-- Cung điện: [[Palace - ...]]
+- Cung điện liên kết: 
 - Vị trí (Loci): 
 - Hình ảnh liên tưởng: 
 

@@ -1,18 +1,15 @@
 # 🀄 MOC Tiếng Trung
 
 ## Giới thiệu
-Bảng điều khiển cho việc học Tiếng Trung (Bao gồm Hán cổ và Giao tiếp).
+Hệ thống lưu trữ và phân tích từ vựng Tiếng Trung, Hán Cổ và cách ghi nhớ.
 
-## 📜 Hán Cổ
-- [[Bộ thủ (Radicals)]]
-- [[Kinh văn/Thơ ca]]
-- [[Ngữ pháp Hán Văn]]
+## 📜 Kiến thức nền tảng
+- [[Lịch Sử Chữ Hán và Bộ Thủ]]
+- [[Nguyên tắc cấu tạo Lục Thư]] - Tư duy hình thành chữ Hán.
+- [[Tầm quan trọng của Bút Thuận (Stroke Order)]]
 
-## 🗣️ Giao Tiếp
-- [[Mẫu câu giao tiếp]]
-- [[Từ lóng / Văn hóa mạng]]
-- [[Luyện nghe]]
+## 🀄 Kho Từ Vựng & Phân Tích
+*(Các ghi chú từ vựng độc lập sẽ được tổng hợp ở đây bằng Dataview)*
 
-## 🔗 Liên kết chéo
-- Nhớ từ vựng: [[MOC Siêu Trí Nhớ]]
-- Dịch kinh cổ: [[MOC Phật Pháp]]
+## 🔗 Liên kết hệ thống
+- Dùng Loci nhớ mặt chữ: [[MOC Siêu Trí Nhớ]]
