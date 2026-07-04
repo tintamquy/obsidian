@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "0074e9c8c2758cf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
             "id": "bbd83faeae7e68cb",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,15 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94c0d1b61f42a322",
+  "active": "0074e9c8c2758cf3",
   "lastOpenFiles": [
+    "KAVECOGS Từ Tính Hóa Hình Ảnh Ghi Nhớ.md",
+    "Untitled 1.md",
     "000_Trang_Chu.md",
     "04. 📅 Daily Notes/Lãng phí thời gian là một tội lỗi..md",
     "Untitled.md",
     "Tứ niệm xứ.md",
     "99. ⚙️ Templates/Template_Nhat_Ky_Hang_Ngay.md",
     "Vô ngã.md",
-    "Untitled 1.md",
     "02. 🧠 Zettelkasten/Hệ Thống PAO (Person-Action-Object).md",
     "00. 📥 Inbox/Ảo tưởng về sự học tập.md",
     "05. 📦 Archive (Ghi Chú Cũ)/Bí mật Cung điện Ghi nhớ 5 Bài học Đột phá để Ghi nhớ Mọi thứ (Kể cả Văn bản Cổ xưa).md",
@@ -247,7 +262,6 @@
     "05. 📦 Archive (Ghi Chú Cũ)/thực hành nâng cao về kỹ thuật Lâu đài Ký ức (Memory Palace).md",
     "02. 🧠 Zettelkasten/Lịch Sử Chữ Hán và Bộ Thủ.md",
     "02. 🧠 Zettelkasten/Kỹ Thuật Prompt Engineering Cơ Bản.md",
-    "KAVECOGS Từ Tính Hóa Hình Ảnh Ghi Nhớ.md",
     "02. 🧠 Zettelkasten/Bát Chính Đạo.md",
     "99. ⚙️ Templates/Template_Ghi_Chu_Nguyen_Tu_Zettelkasten.md",
     "05_Templates/01_Ghi_Chu_Tieu_Chuan.md",
