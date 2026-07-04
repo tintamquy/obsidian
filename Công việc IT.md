@@ -15,7 +15,8 @@ date: 2026-07-04
 	- bit.ly/gbql
 	- tải xuống và cài
 
-[[bản quyền]] 
+[[bản quyền]] , [[phần mềm]]
+
 
 # Công việc IT
 
