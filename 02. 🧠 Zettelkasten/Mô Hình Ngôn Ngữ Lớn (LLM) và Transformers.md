@@ -1,6 +1,13 @@
 ---
-tags: [ai, kienthucnen]
-aliases: [LLM, Large Language Model, Transformer Architecture]
+tags:
+  - ai
+  - kienthucnen
+  - atomic
+aliases:
+  - LLM
+  - Large Language Model
+  - Transformer Architecture
+date: 2026-07-07
 ---
 # Mô Hình Ngôn Ngữ Lớn (LLM) & Kiến trúc Transformer
 
@@ -21,3 +28,17 @@ Trước năm 2017, AI xử lý ngôn ngữ dùng RNN/LSTM (xử lý từ từ t
 
 ---
 🔗 **Liên kết**: [[MOC Trí Tuệ Nhân Tạo]], [[Kỹ thuật Prompt Engineering Cơ Bản]]
+
+# Mô Hình Ngôn Ngữ Lớn (LLM) và Transformers
+
+## 🧠 Ý tưởng cốt lõi
+(Viết DUY NHẤT một ý tưởng vào đây bằng lời văn của bạn. Không copy-paste)
+- 
+
+## 💡 Phân tích / Giải thích thêm
+- 
+
+## 🔗 Liên kết (Trò chuyện với các Note khác)
+- Khái niệm này củng cố cho: [[...]]
+- Khái niệm này mâu thuẫn với: [[...]]
+- Khái niệm này ứng dụng vào: [[...]]
