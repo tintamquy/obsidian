@@ -39,10 +39,14 @@
             "id": "09e3bdba4cee4983",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02. 🧠 Zettelkasten/Hướng Dẫn Zettelkasten Thực Chiến.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hướng Dẫn Zettelkasten Thực Chiến"
             }
           }
         ],
